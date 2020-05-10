@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:jpa-many-to-many" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a1f4325-a8ad-4059-b766-2b78e18f0a33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jpa-many-to-many" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bfiZPqufyo951lcjxRREYteb9E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docs/docker-command.md" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringmvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springmvc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.SpringmvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1f4325-a8ad-4059-b766-2b78e18f0a33" name="Default Changelist" comment="" />
+      <created>1589029603764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589029603764</updated>
+      <workItem from="1589029611481" duration="3979000" />
+      <workItem from="1589094466610" duration="2397000" />
+      <workItem from="1589151557904" duration="854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="jpa-many-to-many" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="-1158" key="#New_Docker_Connection" timestamp="1589095816252">
+      <screen x="-549" y="-1440" width="2048" height="1122" />
+    </state>
+    <state x="243" y="-1158" key="#New_Docker_Connection/0.0.1707.930/2011.-1440.2048.1122/-549.-1440.2048.1122@-549.-1440.2048.1122" timestamp="1589095816252" />
+    <state x="694" y="-1136" key="FileChooserDialogImpl" timestamp="1589151759976">
+      <screen x="-549" y="-1440" width="2048" height="1122" />
+    </state>
+    <state x="694" y="-1136" key="FileChooserDialogImpl/0.0.1707.930/2011.-1440.2048.1122/-549.-1440.2048.1122@-549.-1440.2048.1122" timestamp="1589151759976" />
+    <state x="-57" y="-1263" key="SettingsEditor" timestamp="1589152413445">
+      <screen x="-549" y="-1440" width="2048" height="1122" />
+    </state>
+    <state x="-57" y="-1265" key="SettingsEditor/0.0.1634.960/2011.-1440.2048.1112/-549.-1440.2048.1112@-549.-1440.2048.1112" timestamp="1589092977648" />
+    <state x="-57" y="-1263" key="SettingsEditor/0.0.1707.930/2011.-1440.2048.1122/-549.-1440.2048.1122@-549.-1440.2048.1122" timestamp="1589152413445" />
+    <state x="2381" y="164" key="SettingsEditor/0.0.1847.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589030397192" />
+    <state x="138" y="-1195" width="672" height="685" key="search.everywhere.popup" timestamp="1589096074607">
+      <screen x="-549" y="-1440" width="2048" height="1122" />
+    </state>
+    <state x="138" y="-1197" width="672" height="678" key="search.everywhere.popup/0.0.1634.960/2011.-1440.2048.1112/-549.-1440.2048.1112@-549.-1440.2048.1112" timestamp="1589087880113" />
+    <state x="138" y="-1195" width="672" height="685" key="search.everywhere.popup/0.0.1707.930/2011.-1440.2048.1122/-549.-1440.2048.1122@-549.-1440.2048.1122" timestamp="1589096074607" />
+  </component>
+</project>
